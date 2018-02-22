@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  
+<title>ArtDesbo:Decorative Ware Portfolio</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="KEYWORDS" content="sculpture,modelmaking,artists,murals" />
+<link rel="stylesheet" type="text/css" href="../black.css" />
+<style type="text/css">
+#acorn, #rabbit, #lion, #scroll, #zodiac_frame, #zodiac_sun, #sculptor { background:#666 url(deco.jpg) no-repeat top left; position: relative;} 
+
+
+
+#scroll { background-position: 0px -370px; height: 140px; width: 105px; }
+
+#rabbit { background-position: 0px -280px; height: 90px; width: 140px; }
+#acorn { background-position: 0px 0px; height: 140px; width: 109px; }
+</style>
+</head>
+<body>
+<div class="content">
+<div class="words2" >
+<div class="headerindex">
+<span class="ArtDesbo ">ArtDesbo</span>
+</div>
+	<h2>Decorative Ware</h2>
+<hr />		
+	<ul class="banner">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../portfolio.html">Portfolios</a></li> 
+		<li><a href="../about.html">About</a></li> 
+		<li><a href="../contact.html">Contact Us</a></li>
+		<li><a href="../sitemap.html">Site Map</a></li>
+	</ul>	
+<hr />
+<hr />
+	<div  class="portpic" id="rabbit" >
+		<div class="wordsportpic">
+			<h3><a href="rabbit.html" >enlarge</a></h3>
+			<h4>The White Rabbit</h4><p>Clay. Frieze for Locker &amp; Riley. 600 mm high.</p>
+			</div>
+	</div>		
+<hr />
+	<div  class="portpic" id="acorn" >
+		<div class="wordsportpic">
+			<h3><a href="acorn.html" >enlarge</a></h3>
+			<h4>Acorn Finial</h4><p>Painted Resin. Curtain Rod End, 200 mm.</p>
+			</div>
+	</div>
+
+<hr />		
+	<div class="portpic" id="scroll">
+		<div class="wordsportpic" >
+			<h3><a href="scroll.html">enlarge</a></h3>
+			<h4>Scroll Finial</h4><p>Painted Resin. Curtain Rod End, 200 mm.</p>
+	</div>	
+	</div>
+<hr />
+</div>	
+<ul class="banner footer">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../animals/animals.html">Animals</a></li>
+		<li><a href="../figures/figures.html">Figures</a></li>
+		<li><a href="../fineart/fineart.html">FineArt</a></li>
+		<li><a href="../museum/museum.html">Museum</a></li>
+		<li><a href="../personal/personal.html">PersonalWork</a></li>
+		<li><a href="../signage/signage.html">Signage</a></li>
+		<li><a href="../theatre/theatre.html">Theatre/Props</a></li>
+</ul>
+</body>
+</html>
+

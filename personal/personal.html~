@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  
+<title>ArtDesbo:Personal Work Portfolio</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="KEYWORDS" content="sculpture,modelmaking,artists,murals" />
+<link rel="stylesheet" type="text/css" href="../black.css" />
+<style type="text/css">
+#crow, #horse, #merle, #theatre { background:#666 url(personal.jpg) no-repeat top left; background-position: relative;height: 140px; } 
+#theatre { background-position: -0px -437px; width: 111px; }
+#merle { background-position: -0px -292px; width: 84px;height: 138px; }
+#horse { background-position: -0px -146px; width: 100px; }
+#crow { background-position: -0px 1px; width: 110px; }
+</style>
+</head>
+<body>
+<div class="content">
+<div class="words2" >
+<div class="headerindex">
+<span class="ArtDesbo ">ArtDesbo</span>
+</div>
+	<h2>Personal Work</h2>
+<hr />		
+	<ul class="banner">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../portfolio.html">Portfolios</a></li> 
+		<li><a href="../about.html">About</a></li> 
+		<li><a href="../contact.html">Contact Us</a></li>
+		<li><a href="../sitemap.html">Site Map</a></li>
+	</ul>	
+<hr />	
+<hr />	
+	<div  class="portpic" id="crow" >
+		<div class="wordsportpic">
+			<h3><a href="crow.html" >enlarge</a></h3>
+			<h4>Crow Puppet</h4><p>Mixed Media Rod Puppet, 700mm.</p> 
+			</div>
+	</div>
+<hr />		
+	<div class="portpic" id="horse">
+			<div class="wordsportpic" >
+				<h3><a href="horse.html" >enlarge</a></h3>
+				<h4>Horse Puppet</h4><p>Mixed Media Rod Puppet, 680mm.</p> 
+			</div>
+	</div>
+<hr />		
+	<div class="portpic" id="merle">
+		<div class="wordsportpic" >
+			<h3><a href="merle.html">enlarge</a></h3>
+			<h4>Merle Puppet</h4><p>Mixed Media Rod Puppet, 650mm.</p> 
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="theatre">
+		<div class="wordsportpic">
+			<h3 ><a href="theatre.html">enlarge</a></h3>
+			<h4>Theatre Puppet</h4><p>Mixed Media Rod Puppet, 700mm.</p>  
+		</div>
+</div></div>	
+<div class="push"></div>
+</div>	
+<ul class="banner footer">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../animals/animals.html">Animals</a></li>
+		<li><a href="../deco/deco.html">DecorativeWare</a></li>
+		<li><a href="../figures/figures.html">Figures</a></li>
+		<li><a href="../fineart/fineart.html">FineArt</a></li>
+		<li><a href="../museum/museum.html">Museum</a></li>
+		<li><a href="../signage/signage.html">Signage</a></li>
+		<li><a href="../theatre/theatre.html">Theatre/Props</a></li>
+	</ul>
+</body>
+</html>
+

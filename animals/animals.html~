@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>ArtDesbo&#58;Animals Portfolio</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="KEYWORDS" content="sculpture,modelmaking,artists,murals" />
+<link rel="stylesheet" type="text/css" href="../black.css" />
+<style type="text/css">
+#ape, #baby_elephant, #chameleon, #elephant, #fennec_fox, #tree_frog, #baboon, #iguana, #leopard_frog, #stag, #sun_bear, #spaniel, #water_hen { background:#666 url(anim_sprite.jpg) no-repeat top left; position: relative;} 
+#water_hen { background-position: 0px -461px; height: 130px; width: 140px; }
+#spaniel { background-position: 0px -1302px; height: 105px; width: 140px; }
+#sun_bear { background-position: 0px -1408px; height: 140px; width: 94px; }
+#stag { background-position: 0px 0px; height: 117px; width: 140px; }
+#leopard_frog { background-position: 0px -227px; height: 120px; width: 140px; }
+#iguana { background-position: 0px -1216px; height: 86px; width: 140px; }
+#baboon { background-position: 0px -797px; height: 140px; width: 100px; }
+#tree_frog { background-position: 0px -347px; height: 113px; width: 140px; }
+#fennec_fox { background-position: 0px -937px; height: 140px; width: 114px; }
+#elephant { background-position: 0px -683px; height: 114px; width: 140px; }
+#chameleon { background-position: 0px -591px; height: 92px; width: 140px; }
+#baby_elephant { background-position: 0px -117px; height: 110px; width: 140px; }
+#ape { background-position: 0px -1077px; height: 140px; width: 127px; }
+</style>
+</head>
+<body>
+<div class="content">
+<div class="words2"  >
+<div class="headerindex">
+<span class="ArtDesbo ">ArtDesbo</span>
+</div>
+	<h2>Animals</h2>
+<hr />	
+	<ul class="banner">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../portfolio.html">Portfolios</a></li> 
+		<li><a href="../about.html">About</a></li> 
+		<li><a href="../contact.html">Contact Us</a></li>
+		<li><a href="../sitemap.html">Site Map</a></li>
+	</ul>	
+<hr />
+<hr />
+	<div class="portpic" id="baboon">
+		<div class="wordsportpic">
+			<h3><a href="baboon.html">enlarge</a></h3>
+			<h4>Hamadryas Baboon.</h4><p> Modelled in Clay. Lifesize.</p><p>Museum Display Figure. For Artisan Creations.</p>
+		</div>
+	</div>		
+<hr />
+	<div class="portpic" id="chameleon">
+		<div class="wordsportpic">
+			<h3><a href="chameleon.html">enlarge</a></h3>
+			<h4>Chameleon.</h4><p> Modelled in Wax. Giftware. Lifesize.</p>
+		</div>
+	</div>
+<hr />
+	<div class="portpic" id="spaniel">
+		<div class="wordsportpic" >
+			<h3><a href="spaniel.html">enlarge</a></h3>
+			<h4>Cocker Spaniel.</h4><p> Modelled in Wax. Giftware. 5 inches tall.</p>
+		</div>
+</div>
+<hr />
+	<div class="portpic" id="baby_elephant" >
+		<div class="wordsportpic">
+			<h3><a href="babyelephant.html" >enlarge</a></h3>
+			<h4>Baby Elephant.</h4><p> Modelled in Plasticene. Giftware. 240mm tall.</p>
+		</div>
+	</div>
+<hr />
+	<div class="portpic" id="elephant">
+		<div class="wordsportpic">
+			<h3 ><a href="elephant.html">enlarge</a></h3>
+			<h4>Elephant.</h4><p> Modelled in Wax. Giftware. 200mm tall.</p>
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="fennec_fox">
+		<div class="wordsportpic" >
+			<h3><a href="fox.html">enlarge</a></h3>
+			<h4>Fennec Fox.</h4><p> Modelled in Clay. Lifesize.</p><p>Museum Display Figure. For Artisan Creations.</p>
+		</div>
+</div>	
+<hr />
+	<div class="portpic" id="tree_frog">
+		<div class="wordsportpic" >
+			<h3><a href="frog.html">enlarge</a></h3>
+			<h4>Tree Frog.</h4><p> Modelled in Wax. Advertising. Lifesize.</p>
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="leopard_frog">
+		<div class="wordsportpic" >
+			<h3><a href="leopardfrog.html">enlarge</a></h3>
+			<h4>Leopard Frog.</h4><p> Painted Resin Cast. Master Modelled in Wax.</p><p>Advertising. Lifesize.</p>
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="ape">
+		<div class="wordsportpic" >
+			<h3><a href="ape.html">enlarge</a></h3>
+			<h4>Young Gorilla.</h4><p> Modelled in Plasticene. Giftware. 240mm tall.</p>
+		</div>
+	</div>	
+<hr />
+	<div class="portpic" id="iguana">
+		<div class="wordsportpic" >
+			<h3><a href="iguana.html">enlarge</a></h3>
+			<h4>Iguana.</h4><p> Modelled in Wax. Giftware. Lifesize.</p>
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="stag">
+		<div class="wordsportpic">
+			<h3><a href="stag.html">enlarge</a></h3>
+			<h4>Stag.</h4><p> Modelled in Wax. Giftware. 150 mm tall.</p>
+		</div>
+	</div>
+<hr />	
+	<div class="portpic" id="sun_bear">
+		<div class="wordsportpic">
+			<h3><a href="sun_bear.html">enlarge</a></h3>
+			<h4>Sun Bear.</h4><p> Modelled in Clay. Lifesize.</p><p>Display Figure. For Glueworks.</p>
+		</div>
+	</div>	
+<hr />
+	<div class="portpic" id="water_hen">
+		<div class="wordsportpic" >
+			<h3><a href="waterhen.html" >enlarge</a></h3>
+			<h4>Water Hen.</h4><p> Painted Resin Cast. Master Modelled in Wax.</p><p>Display Figure. 200 mm tall.</p>
+		</div>
+	</div>
+</div>	
+<div class="push"></div>
+</div>	
+<ul class="banner footer">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../deco/deco.html">DecorativeWare</a></li>
+		<li><a href="../figures/figures.html">Figures</a></li>
+		<li><a href="../fineart/fineart.html">FineArt</a></li>
+		<li><a href="../museum/museum.html">Museum</a></li>
+		<li><a href="../personal/personal.html">PersonalWork</a></li>
+		<li><a href="../signage/signage.html">Signage</a></li>
+		<li><a href="../theatre/theatre.html">Theatre/Props</a></li>
+</ul>
+</body>
+</html>

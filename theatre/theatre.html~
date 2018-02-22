@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  
+<title>ArtDesbo:Theatre/Props Portfolio</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="KEYWORDS" content="sculpture,modelmaking,artists,murals" />
+<link rel="stylesheet" type="text/css" href="../black.css" />
+<style type="text/css">
+#spring_onion, #spark_plug, #lucky_luke, #large_hand, #horses, #fey_knight, #diver, #dinosaur, #dead_dog, #bill_ben { background:#666 url(theatre.jpg) no-repeat top left; position: relative;} 
+#dead_dog { background-position: 0px -113px; height: 98px; width: 140px; }
+#horses { background-position: 0px -1001px; height: 140px; width: 96px; }
+#spark_plug { background-position: 0px -1141px; height: 140px; width: 83px; }
+#spring_onion { background-position: 0px -631px; height: 140px; width: 85px; }
+</style>
+</head>
+<body>
+<div class="content">
+<div class="words2" >
+<div class="headerindex">
+<span class="ArtDesbo ">ArtDesbo</span>
+</div>
+	<h2>Theatre/Props</h2>
+<hr />	
+	<ul class="banner">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../portfolio.html">Portfolios</a></li> 
+		<li><a href="../about.html">About</a></li> 
+		<li><a href="../contact.html">Contact Us</a></li>
+		<li><a href="../sitemap.html">Site Map</a></li>
+	</ul>	
+<hr />	
+
+	
+	<div class="portpic" id="dead_dog">
+		<div class="wordsportpic" >
+			<h3><a href="DeadDog.html">enlarge</a></h3>
+			<h4>Dead Dog.</h4><p> Modelled in Clay. For London Dungeon themeing. Lifesize.</p>
+		</div>
+	</div>	
+<hr />	
+	
+	<div class="portpic" id="horses">
+			<div class="wordsportpic" >
+				<h3><a href="horse.html">enlarge</a></h3>
+				<h4>El Cid Horses</h4><p>Coated Polystyrene. For National Theatre Production, lifesize.</p> 
+			</div>
+		</div>
+<hr />		
+		
+	<div class="portpic" id="spring_onion">
+		<div class="wordsportpic">
+			<h3><a href="spring_onion.html">enlarge</a></h3>
+			<h4>Large Spring Onion</h4><p>Painted Polystyrene. Advertising, 6ft.</p> 
+		</div>
+	</div>	
+<hr />	
+	<div class="portpic" id="spark_plug">
+		<div class="wordsportpic" >
+			<h3><a href="sparkplug.html">enlarge</a></h3>
+			<h4>Large Sparkplug</h4><p>Painted Polystyrene. Advertising, 6ft.</p> 
+		</div>
+	</div></div>
+	<div class="push"></div>
+</div>	
+<ul class="banner footer">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../animals/animals.html">Animals</a></li>
+		<li><a href="../deco/deco.html">DecorativeWare</a></li>
+		<li><a href="../figures/figures.html">Figures</a></li>
+		<li><a href="../fineart/fineart.html">FineArt</a></li>
+		<li><a href="../museum/museum.html">Museum</a></li>
+		<li><a href="../personal/personal.html">PersonalWork</a></li>
+		<li><a href="../signage/signage.html">Signage</a></li>
+		
+</ul>
+</body>
+</html>
+

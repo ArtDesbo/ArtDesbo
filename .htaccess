@@ -1,0 +1,12 @@
+Redirect /militaria http://www.co3creativeworkshop.co.uk/technical
+Redirect 301 /figures/sumo.html http://www.co3creativeworkshop.co.uk/fineart/sumo.html
+Redirect 301 /figures/sumohead.html http://www.co3creativeworkshop.co.uk/fineart/sumohead.html
+Redirect 301 /figures/winking_man.html http://www.co3creativeworkshop.co.uk/sitemap.html
+Redirect 301 /museum/board_game.html http://www.co3creativeworkshop.co.uk/museum/boardgame.html
+Redirect 301 /theatre/clay_head.html http://www.co3creativeworkshop.co.uk/figures/figures.html
+Redirect 301 /murals/danesfield2.html http://www.co3creativeworkshop.co.uk/sitemap.html
+Redirect /other http://www.co3creativeworkshop.co.uk/deco
+
+#RewriteEngine On
+#RewriteRule ^other/.+ /deco/ [R=301,L]
+#RewriteRule ^militaria/.+ /technical/ [R=301,L]
