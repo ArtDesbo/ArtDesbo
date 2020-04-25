@@ -68,7 +68,7 @@ max-width:98%;
 background:#052002 none no-repeat top right;
 }
 .content{
-background:#000 url(./tiffany.jpg) no-repeat 610px 10px fixed;
+background:#000 url(./tiffany.jpg) no-repeat 610px 10px; background-position: right ; margin:right 20px;
 }
 .headerabout {
 left:50%;
@@ -172,7 +172,7 @@ margin-left:20px
 }
 #index {
 margin:2% 0 -25px 30px;
-width:54%;
+width:45em;
 padding:1%;
 min-height:500px;
 }
