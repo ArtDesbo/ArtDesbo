@@ -68,7 +68,7 @@ max-width:98%;
 background:#052002 none no-repeat top right;
 }
 .content{
-background:#000 url(./tiffany.jpg) no-repeat 610px 10px fixed;margin-left:70%;
+background:#000 url(./tiffany.jpg) no-repeat 610px 10px top right;
 }
 .headerabout {
 left:50%;
