@@ -84,7 +84,7 @@ background:inherit;
 .ArtDesbo {
 font-family:deco;
 text-shadow:green .05em .04em;
-font-size:1em;
+font-size:40pt;
 color:#ddd;
 }
 
@@ -110,7 +110,7 @@ transition:opacity .2s ease-in;
 .range {
 margin:10px 0 20px 0;
 font-family:sans;
-font-size:120%;
+font-size:130%;
 font-weight:bold;
 }
 .range li {
