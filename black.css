@@ -1,5 +1,6 @@
 body {
 background-color:#000;
+background:#000 url(./tiffany.jpg) no-repeat 610px 10px ; background-position: top right;background-attachment: fixed;margin:right 20px;
 text-align:center;
 }
 
@@ -65,10 +66,10 @@ width:96%;
 max-width:98%;
 }
 .contentpics {
-background:#052002 none no-repeat top right;
+background:#052002 none no-repeat top right;width:110%;
 }
 .content{
-background:#000 url(./tiffany.jpg) no-repeat 610px 10px; background-position: right ; margin:right 20px;
+/*background:#000 url(./tiffany.jpg) no-repeat 610px 10px ; background-position: right top ;background-attachment: fixed;margin:right 20px;*/
 }
 .headerabout {
 left:50%;
